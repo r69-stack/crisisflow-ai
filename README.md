@@ -6,7 +6,7 @@ CrisisFlow AI is a multi-agent disaster response and resource coordination platf
 
 Problem
 
-Disaster response efforts often suffer from fragmented information, delayed verification, and inefficient resource allocation. These challenges slow emergency response and reduce operational effectiveness.
+Disaster response efforts often suffer from fragmented information, delayed verification, and inefficient resource allocation. These challenges slow emergency response and reduce operational effectiveness. 
 
 Solution
 
